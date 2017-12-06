@@ -1,0 +1,1 @@
+Runtime error: java.lang.ClassCastException: java.util.TreeSet cannot be cast to spelling.Dictionary
